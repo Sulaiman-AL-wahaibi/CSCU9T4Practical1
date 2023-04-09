@@ -25,7 +25,7 @@ public class TrainingRecord {
 				result = current.getEntry();
 		}
 		return result;
-	} // lookupEntry
+	} // lookupEntry added
 
 	public String lookupall(int d, int m, int y) {
 		ListIterator<Entry> iter = tr.listIterator();
