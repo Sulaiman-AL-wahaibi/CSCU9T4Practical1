@@ -13,7 +13,7 @@ public class Entry {
 	  inst.set(y, m-1,d,h,min,s);
 	  dateAndTime = inst;
     distance = dist;
-  } //constructor updated
+  } //constructor updated now
   
   public String getName () {
 	    return name;
